@@ -1,7 +1,8 @@
 # Sorting Visualizer
 
 A dynamic web application to visualize sorting algorithms, built with HTML, CSS, and JavaScript. This project demonstrates Bubble Sort, Selection Sort, and Insertion Sort with interactive controls and a sleek, modern interface. Perfect for learning and teaching the mechanics of sorting algorithms.
-
+## Live Demo
+Explore the live Sorting Visualizer here: [https://taannuuuuuu.github.io/sorting-visualizer/](https://taannuuuuuu.github.io/sorting-visualizer/)
 ![Sorting Visualizer Demo](assets/demo.png) <!-- Replace with actual screenshot or GIF -->
 
 ## Table of Contents
